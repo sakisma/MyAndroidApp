@@ -186,6 +186,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    //TODO: HUNDLE SOME erros that make app close
 
     private void setUIViews(){
         one = (Button)findViewById(R.id.btn1);
